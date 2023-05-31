@@ -1,0 +1,7 @@
+terraform {
+
+}
+
+variable "splat" {
+
+}
